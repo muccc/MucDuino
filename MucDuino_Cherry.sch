@@ -4300,9 +4300,9 @@ In this library the device names are the same as the pin names of the symbols, t
 <attribute name="NAME" x="57.15" y="90.17" size="1.778" layer="95"/>
 <attribute name="TP_SIGNAL_NAME" x="64.77" y="92.71" size="1.778" layer="97" rot="R90"/>
 </instance>
-<instance part="VCC" gate="G$1" x="109.22" y="91.44" smashed="yes" rot="R270">
-<attribute name="NAME" x="110.49" y="90.17" size="1.778" layer="95"/>
-<attribute name="TP_SIGNAL_NAME" x="107.95" y="90.17" size="1.778" layer="97" rot="R270"/>
+<instance part="VCC" gate="G$1" x="111.76" y="91.44" smashed="yes" rot="R270">
+<attribute name="NAME" x="113.03" y="90.17" size="1.778" layer="95"/>
+<attribute name="TP_SIGNAL_NAME" x="110.49" y="90.17" size="1.778" layer="97" rot="R270"/>
 </instance>
 <instance part="C4" gate="G$1" x="137.16" y="129.54" smashed="yes" rot="R270">
 <attribute name="NAME" x="137.033" y="130.556" size="1.778" layer="95" rot="R90"/>
@@ -4349,7 +4349,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <instance part="SUPPLY4" gate="G$1" x="134.62" y="111.76"/>
 <instance part="SUPPLY5" gate="G$1" x="50.8" y="139.7"/>
 <instance part="SUPPLY6" gate="G$1" x="12.7" y="177.8"/>
-<instance part="SUPPLY7" gate="G$1" x="101.6" y="93.98"/>
+<instance part="SUPPLY7" gate="G$1" x="104.14" y="93.98"/>
 </instances>
 <busses>
 </busses>
@@ -4549,12 +4549,12 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="SUPPLY1" gate="G$1" pin="VCC"/>
 </segment>
 <segment>
-<wire x1="106.68" y1="91.44" x2="101.6" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="109.22" y1="91.44" x2="104.14" y2="91.44" width="0.1524" layer="91"/>
 <label x="93.98" y="91.44" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="VCC" gate="G$1" pin="TP"/>
 <pinref part="SUPPLY7" gate="G$1" pin="VCC"/>
-<wire x1="101.6" y1="91.44" x2="93.98" y2="91.44" width="0.1524" layer="91"/>
-<junction x="101.6" y="91.44"/>
+<wire x1="104.14" y1="91.44" x2="93.98" y2="91.44" width="0.1524" layer="91"/>
+<junction x="104.14" y="91.44"/>
 </segment>
 <segment>
 <wire x1="147.32" y1="149.86" x2="144.78" y2="149.86" width="0.1524" layer="91"/>
