@@ -1,0 +1,46 @@
+Partlist
+
+Assembly variant: 
+
+Part     Value                Package                  Library    Position (mm)         Orientation
+
+A0       TPPAD1-13            P1-13                    testpad    (69.08 17.26)         R270
+A1       TPPAD1-13            P1-13                    testpad    (70.86 19.64)         R270
+A2       TPPAD1-13            P1-13                    testpad    (65.36 19.64)         R270
+A3       TPPAD1-13            P1-13                    testpad    (78.34 26.5)          R270
+A4       TPPAD1-13            P1-13                    testpad    (74.54 27.62)         R270
+A5       TPPAD1-13            P1-13                    testpad    (67.78 24.26)         R270
+C1       0.1uF                0603-CAP                 SparkFun   (70.0238 14.9214)     R180
+C2       0.1uF                0603-CAP                 SparkFun   (16.1364 28.3088)     R180
+C3       0.1uF                0603-CAP                 SparkFun   (48.3722 17.4918)     R270
+C4       18p                  0603-CAP                 SparkFun   (88.28 26.24)         R0
+C5       18p                  0603-CAP                 SparkFun   (88.3 24.42)          R0
+C6       18p                  0603-CAP                 SparkFun   (38.04 21.89)         R270
+C7       18p                  0603-CAP                 SparkFun   (34.9 22.05)          R90
+C8       0.1uF                0603-CAP                 SparkFun   (16.07 30.68)         R180
+C9       0.1uF                0603-CAP                 SparkFun   (34.37 13.79)         R180
+D2       TPPAD1-13            P1-13                    testpad    (52.46 21.6)          R270
+D4       TPPAD1-13            P1-13                    testpad    (48.32 7.32)          R270
+D5       TPPAD1-13            P1-13                    testpad    (51.22 7.32)          R270
+D6       TPPAD1-13            P1-13                    testpad    (53.98 7.88)          R270
+D7       TPPAD1-13            P1-13                    testpad    (56.74 7.6)           R270
+D8       TPPAD1-13            P1-13                    testpad    (59.22 7.88)          R270
+D9       TPPAD1-13            P1-13                    testpad    (61.7 8.31)           R270
+D10      TPPAD1-13            P1-13                    testpad    (64.44 8.72)          R270
+D11      TPPAD1-13            P1-13                    testpad    (67.2 9.7)            R270
+D12      TPPAD1-13            P1-13                    testpad    (69.96 10.68)         R270
+D13      TPPAD1-13            P1-13                    testpad    (74.59 12.78)         R270
+GND      TPPAD1-13            P1-13                    testpad    (85.72 21.6)          R270
+IC1                           SOP16-209MM              densikit   (40.94 13.07)         R0
+ISP                           MA03-2                   con-lstb   (78.86 18.65)         R0
+JP1                           MA04-1                   con-lstb   (29.5937375 12.984003125) R315
+Q1       16 MHz               HC49UP                   crystal    (87.6720125 31.827746875) R45
+Q2       12 MHz               HC49UP                   crystal    (26.44674375 26.052428125) R135
+R2       10K                  0603-RES                 SparkFun   (65.8912 14.2086)     R0
+RX       TPPAD1-13            P1-13                    testpad    (64.69 23.42)         R270
+S1       Reset                TACTILE-SWITCH-SMD-ALT01 Testing    (49.3882 12.8942)     R0
+TP2      TPPAD1-13            P1-13                    testpad    (48.64 20.9)          R270
+TX       TPPAD1-13            P1-13                    testpad    (56.19 21.88)         R270
+U1       ATMEGA328            TQFP32-08                SparkFun   (58.543496875 15.241746875) R0
+VCC      TPPAD1-13            P1-13                    testpad    (43.54 21.88)         R270
+X1       MINI-USB-UX60-MB-5ST UX60-MB-5ST              con-hirose (20.631840625 20.588234375) R45
